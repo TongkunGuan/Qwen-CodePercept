@@ -4,7 +4,7 @@
 > 
 > Note: Code and weights will be available soon.
 > 
-
+[paper link](http://arxiv.org/abs/2603.10757)
 ## 💡 About
 
 When Multimodal Large Language Models (MLLMs) fail at Science, Technology, Engineering, and Mathematics (STEM) visual reasoning, a fundamental question arises: is it due to perceptual deficiencies or reasoning limitations?.
