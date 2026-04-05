@@ -30,7 +30,7 @@ https://swift.readthedocs.io/zh-cn/v3.9/GetStarted/SWIFT%E5%AE%89%E8%A3%85.html
 
 ---
 
-## 3. 部署待评测模型
+## 3. 部署待评测模型 (可选)
 
 请先部署需要评测的模型，并确保能够通过 OpenAI 兼容接口正常访问。
 
