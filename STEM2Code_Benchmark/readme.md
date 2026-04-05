@@ -1,5 +1,7 @@
 data:
+
 [download jsonl file](https://ofasys-multimodal-wlcb-3-toshanghai.oss-cn-shanghai.aliyuncs.com/zhongfan_intern/guantongkun/benchmark/STEM2Code20260405.jsonl?OSSAccessKeyId=LTAI5tG6PFYfzqBsgGffVXy3&Expires=2090761443&Signature=%2BudGKeVrhDPVSkEBCPlsA5ApFBY%3D)
+
 [download image file](https://ofasys-multimodal-wlcb-3-toshanghai.oss-cn-shanghai.aliyuncs.com/zhongfan_intern/guantongkun/benchmark/STEM2Code_benchmark.zip?OSSAccessKeyId=LTAI5tG6PFYfzqBsgGffVXy3&Expires=2090761521&Signature=EOwW7t8PpB7qqU2s6MaZyikVTXo%3D)
 1. 部署要评测的模型。  
    - 如果是本地模型，需要配置 `infer_server_32B_model`、`infer_server_4B&8B_models`，获取 `api_key` 和 `api_base`。  
